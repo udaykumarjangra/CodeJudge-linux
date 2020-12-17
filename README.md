@@ -1,2 +1,1 @@
-# CodeJudge-linux
- 
+# hackocracy
